@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794500470820",
+    "firebase_url": "https://snakevsblocks-585dc.firebaseio.com",
+    "project_id": "snakevsblocks-585dc",
+    "storage_bucket": "snakevsblocks-585dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794500470820:android:6df5a3d86a57b07e9e60b1",
+        "android_client_info": {
+          "package_name": "com.company.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794500470820-f95ucpmgd4n40qimveu9b2ang84j4n49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYpzqkScNFrwtZy6zYPTN3nxAYt3oAJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794500470820-f95ucpmgd4n40qimveu9b2ang84j4n49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

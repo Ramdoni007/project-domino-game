@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="MainAtlas.png">
+	<SubTexture name="Logo" x="1380" y="50" width="318" height="165"/>
+	
+    <SubTexture name="1" x="990" y="1250" width="22" height="37"/>
+	
+    <SubTexture name="2" x="1050" y="1250" width="30" height="37"/>
+	
+    <SubTexture name="3" x="1120" y="1250" width="31" height="38"/>
+	
+    <SubTexture name="4" x="1180" y="1250" width="33" height="37"/>
+	
+    <SubTexture name="5" x="1240" y="1250" width="31" height="37"/>
+	
+    <SubTexture name="6" x="1300" y="1250" width="31" height="38"/>
+	
+    <SubTexture name="7" x="1360" y="1250" width="30" height="36"/>
+	
+    <SubTexture name="8" x="1420" y="1250" width="31" height="38"/>
+	
+    <SubTexture name="9" x="1490" y="1250" width="31" height="38"/>
+	
+    <SubTexture name="AcceptIcon" x="990" y="1160" width="62" height="48"/>
+	
+    <SubTexture name="AiConf1" x="990" y="1050" width="117" height="96"/>
+	
+    <SubTexture name="AiConf2" x="1130" y="1050" width="117" height="96"/>
+	
+    <SubTexture name="AiConf3" x="1280" y="1050" width="117" height="96"/>
+	
+    <SubTexture name="AllFivesBtn" x="1430" y="1050" width="191" height="96" frameX="7" frameY="1" frameWidth="191" frameHeight="96"/>
+	
+    <SubTexture name="AllFivesInfHintDig_0" x="990" y="1380" width="22" height="23"/>
+    <SubTexture name="AllFivesInfHintDig_1" x="1050" y="1380" width="14" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_2" x="1120" y="1380" width="21" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_3" x="1190" y="1380" width="20" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_4" x="1250" y="1380" width="20" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_5" x="1310" y="1380" width="21" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_6" x="1360" y="1380" width="20" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_7" x="1420" y="1380" width="21" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_8" x="1470" y="1380" width="21" height="23"/>
+	
+    <SubTexture name="AllFivesInfHintDig_9" x="1520" y="1380" width="20" height="23"/>
+	
+    <SubTexture name="AllFivesInf_10" x="990" y="1500" width="67" height="30"/>
+	
+    <SubTexture name="AllFivesInf_15" x="1120" y="1500" width="67" height="30"/>
+	
+    <SubTexture name="AllFivesInf_20" x="1240" y="1500" width="78" height="30"/>
+	
+    <SubTexture name="AllFivesInf_25" x="1370" y="1500" width="78" height="30"/>
+	
+    <SubTexture name="AllFivesInf_30" x="1510" y="1500" width="77" height="30"/>
+	
+    <SubTexture name="AllFivesInf_35" x="1630" y="1500" width="77" height="30"/>
+	
+    <SubTexture name="AllFivesInf_40" x="990" y="1600" width="77" height="30"/>
+	
+    <SubTexture name="AllFivesInf_5" x="1130" y="1600" width="52" height="30"/>
+	
+    <SubTexture name="BG1Btn" x="990" y="910" width="100" height="75"/>
+	
+    <SubTexture name="BG2Btn" x="1130" y="910" width="100" height="75"/>
+	
+    <SubTexture name="BG3Btn" x="1260" y="910" width="100" height="75"/>
+	
+    <SubTexture name="BG4Btn" x="1400" y="910" width="100" height="75"/>
+	
+    <SubTexture name="BG5Btn" x="1540" y="910" width="100" height="75"/>
+	
+    <SubTexture name="BackBtn" x="990" y="780" width="99" height="96"/>
+	
+    <SubTexture name="BlockDominoBtn" x="1090" y="780" width="191" height="96"/>
+	
+    <SubTexture name="BoneYardPanel" x="10" y="870" width="493" height="307"/>
+	
+    <SubTexture name="ChangeScreenCenter" x="10" y="1220" width="436" height="436"/>
+	
+    <SubTexture name="ChangeScreenFeel" x="490" y="1220" width="110" height="110"/>
+	
+    <SubTexture name="CircFS" x="490" y="1360" width="121" height="121"/>
+	
+    <SubTexture name="Crown" x="670" y="1220" width="112" height="77"/>
+	
+    <SubTexture name="DelimFS" x="690" y="1330" width="8" height="304"/>
+	
+    <SubTexture name="DelimFS2" x="480" y="1660" width="304" height="8"/>
+	
+    <SubTexture name="DelimFS3" x="760" y="1330" width="8" height="142"/>
+	
+    <SubTexture name="DelimPause" x="480" y="1700" width="304" height="8"/>
+	
+    <SubTexture name="DelimPause2" x="480" y="1750" width="304" height="8"/>
+	
+    <SubTexture name="Domino2_0-0" x="530" y="1050" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-1" x="640" y="1050" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-2" x="750" y="1050" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-3" x="860" y="1050" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-4" x="530" y="890" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-5" x="640" y="890" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_0-6" x="750" y="890" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-1" x="860" y="890" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-2" x="530" y="730" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-3" x="640" y="730" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-4" x="750" y="730" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-5" x="860" y="730" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_1-6" x="530" y="570" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_2-2" x="640" y="570" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_2-3" x="750" y="570" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_2-4" x="860" y="570" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_2-5" x="530" y="410" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_2-6" x="640" y="410" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_3-3" x="750" y="410" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_3-4" x="860" y="410" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_3-5" x="530" y="250" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_3-6" x="640" y="250" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_4-4" x="750" y="250" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_4-5" x="860" y="250" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_4-6" x="530" y="90" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_5-5" x="640" y="90" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_5-6" x="750" y="90" width="60" height="125"/>
+	
+    <SubTexture name="Domino2_6-6" x="860" y="90" width="60" height="125"/>
+	
+    <SubTexture name="DominoHiglighter1" x="860" y="1200" width="68" height="133"/>
+	
+    <SubTexture name="DominoHiglighter2" x="860" y="1360" width="64" height="129"/>
+	
+    <SubTexture name="DominoSet2Back" x="860" y="1530" width="60" height="125"/>
+	
+    <SubTexture name="DrawDominoBtn" x="990" y="650" width="191" height="96"/>
+	
+    <SubTexture name="FamobiC" x="990" y="1690" width="92" height="14"/>
+	
+    <SubTexture name="FillSamp" x="990" y="1770" width="39" height="39"/>
+	
+    <SubTexture name="HekpBtn" x="1330" y="780" width="99" height="96" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <SubTexture name="HomeBtn" x="1490" y="780" width="99" height="96"/>
+	
+    <SubTexture name="InfoCloud" x="1250" y="1570" width="88" height="102"/>
+	
+    <SubTexture name="Light" x="10" y="1680" width="449" height="341"/>
+	
+    <SubTexture name="Light2" x="480" y="1780" width="240" height="240"/>
+	
+    <SubTexture name="MenuCBtn" x="1150" y="1680" width="43" height="43"/>
+	
+    <SubTexture name="MenuLineSide" x="1990" y="1440" width="44" height="600"/>
+	
+    <SubTexture name="MenuPlate" x="10" y="420" width="332" height="433"/>
+	
+    <SubTexture name="MouseCursorImg" x="1420" y="1590" width="49" height="65"/>
+	
+    <SubTexture name="NextBtn" x="1530" y="1580" width="99" height="96"/>
+	
+    <SubTexture name="NormalNumsD_0" x="980" y="1860" width="39" height="49"/>
+	
+    <SubTexture name="NormalNumsD_1" x="1050" y="1860" width="27" height="48"/>
+	
+    <SubTexture name="NormalNumsD_2" x="1120" y="1860" width="40" height="48"/>
+	
+    <SubTexture name="NormalNumsD_3" x="1190" y="1860" width="39" height="49"/>
+	
+    <SubTexture name="NormalNumsD_4" x="1260" y="1860" width="41" height="48"/>
+	
+    <SubTexture name="NormalNumsD_5" x="1340" y="1860" width="40" height="48"/>
+	
+    <SubTexture name="NormalNumsD_6" x="1410" y="1860" width="39" height="49"/>
+	
+    <SubTexture name="NormalNumsD_7" x="1480" y="1860" width="39" height="47"/>
+	
+    <SubTexture name="NormalNumsD_8" x="1550" y="1860" width="39" height="49"/>
+	
+    <SubTexture name="NormalNumsD_9" x="1630" y="1860" width="39" height="49"/>
+	
+    <SubTexture name="NumMidS0" x="980" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS1" x="1020" y="1960" width="12" height="23"/>
+	
+    <SubTexture name="NumMidS2" x="1060" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS3" x="1100" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS4" x="1140" y="1960" width="18" height="22"/>
+	
+    <SubTexture name="NumMidS5" x="1180" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS6" x="1220" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS7" x="1260" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS8" x="1300" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="NumMidS9" x="1340" y="1960" width="19" height="23"/>
+	
+    <SubTexture name="PassIxon" x="1410" y="1950" width="46" height="54" frameX="-4" frameY="-8" frameWidth="55" frameHeight="67"/>
+	
+    <SubTexture name="PlayBtnMM" x="990" y="280" width="99" height="96"/>
+	
+    <SubTexture name="PlayBtnSaveMM" x="1100" y="280" width="99" height="96"/>
+	
+    <SubTexture name="PlayersDelim" x="1500" y="1950" width="4" height="43"/>
+	
+    <SubTexture name="PortraitActiveUnd" x="1560" y="1960" width="72" height="56"  frameX="-22" frameY="-14"/>
+	
+    <SubTexture name="PortraitInActiveUnd" x="1630" y="1960" width="72" height="56" frameX="-22" frameY="-14"/>
+	
+    <SubTexture name="Shader" x="860" y="1860" width="60" height="125"/>
+	
+    <SubTexture name="SoundBtnOff" x="1230" y="280" width="99" height="96"          />
+	
+    <SubTexture name="SoundBtnOn" x="1360" y="280" width="99" height="96"/>
+	
+    <SubTexture name="SpeedIcon1" x="1500" y="280" width="99" height="96"       />
+	
+    <SubTexture name="SpeedIcon2" x="1630" y="280" width="99" height="96"/>
+	
+    <SubTexture name="TopMenuLine" x="10" y="20" width="1200" height="44"/>
+	
+    <SubTexture name="Transp"             x="1120" y="1750" width="1" height="1" frameX="0" frameY="0" frameWidth="41" frameHeight="41"/>
+	
+    <SubTexture name="TutorMCCirc"        x="1300" y="1790" width="22" height="22"/>
+	
+    <SubTexture name="TutorMcHandImg1"    x="1410" y="1760" width="99" height="56"/>
+	
+    <SubTexture name="compPlayer1"        x="1550" y="1800" width="47" height="42" frameX="-16" frameY="-15"/>
+	
+    <SubTexture name="compPlayerFS копия" x="1610" y="1760" width="83" height="77"/>
+    <SubTexture name="compPlayerFS"       x="1610" y="1760" width="83" height="77"/>
+	
+    <SubTexture name="firework1" x="1620" y="1270" width="17" height="23" frameX="-10" frameY="-8" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="firework2" x="1660" y="1270" width="21" height="21" frameX="-7" frameY="-12" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="firework3" x="1700" y="1270" width="26" height="23" frameX="-6" frameY="-8" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="firework4" x="1740" y="1270" width="17" height="20" frameX="-7" frameY="-8" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="firework5" x="1780" y="1270" width="23" height="20" frameX="-6" frameY="-9" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="firework6" x="1830" y="1270" width="23" height="16" frameX="-8" frameY="-10" frameWidth="36" frameHeight="38"/>
+	
+    <SubTexture name="humanIconFS копия" x="1730" y="1060" width="76" height="98"/>
+    <SubTexture name="humanIconFS" x="1730" y="1060" width="76" height="98"/>
+	
+    <SubTexture name="humanIconHor" x="1860" y="1100" width="46" height="50" frameX="-15" frameY="-14"/>
+	
+    <SubTexture name="humanIconVert" x="1930" y="1100" width="45" height="55"/>
+	
+    <SubTexture name="smallNumTf_0" x="1550" y="1250" width="31" height="38"/>
+	
+</TextureAtlas>
